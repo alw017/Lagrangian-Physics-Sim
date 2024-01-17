@@ -1,4 +1,4 @@
-package com;
+package src;
 
 public class PhysicsController {
 

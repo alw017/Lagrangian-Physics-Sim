@@ -1,5 +1,6 @@
+package src;
 import java.util.Scanner;
-import com.PhysicsController;
+
 public class main {
     public static void main(String[] args) {
         PhysicsController a = new PhysicsController(50, 0, 0.3d, 0, 0, 0);
